@@ -18,10 +18,10 @@
         Console.WriteLine();
 
         //Removing the first element
-        numberList.RemoveAt(0);
+        numberList.First();
 
         //Removing the last element
-        numberList.RemoveAt(numberList.Count - 1);
+        numberList.Last();
 
         //Updated list
 

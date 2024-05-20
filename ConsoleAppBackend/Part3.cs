@@ -1,6 +1,6 @@
 ﻿class Part3
 {
-    static void Runner3()
+    static void Main()
     {
         Queue<string> queue = new Queue<string>();
 
